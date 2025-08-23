@@ -2,7 +2,7 @@
 
 个人主页 部署在Vercel上
 
-[网站](www.yatori.fun)
+[网站](https://www.yatori.fun)
 
 ## Setup
 
