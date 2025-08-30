@@ -23,6 +23,9 @@ export default defineNuxtConfig({
   },
   css: ['./app/pages/global.css'],
   app: {
+    head: {
+      title: 'Yasaitori\'s Nest'
+    },
     pageTransition: { 
       name: 'page', 
       mode: 'out-in',

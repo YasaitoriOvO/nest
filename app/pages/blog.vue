@@ -5,8 +5,7 @@
 
 <template>
   <div class="m-5 text-center items-center">
-    <h1>博客</h1>
-        <div>
+    <div>
       <div class="chat chat-start">
         <div class="chat-header">
           菜鸡
