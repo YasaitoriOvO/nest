@@ -22,4 +22,11 @@ export default defineNuxtConfig({
     download: true
   },
   css: ['./app/pages/global.css'],
+  app: {
+    pageTransition: { 
+      name: 'page', 
+      mode: 'out-in',
+      duration: 800
+    }
+  }
 })

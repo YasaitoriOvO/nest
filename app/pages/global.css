@@ -1,7 +1,5 @@
 @import "tailwindcss";
-@plugin "daisyui" {
-  themes: light --default, dark --prefersdark;
-}
+@plugin "daisyui";
 
 .page-enter-active,
 .page-leave-active {
