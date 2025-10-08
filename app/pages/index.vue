@@ -21,7 +21,7 @@
         <a href="https://music.163.com/#/user/home?id=4885398960" target="_blank" rel="noopener" aria-label="GitHub">
           <img src="@/assets/icons/cloudmusic.svg" alt="GitHub" class="w-12 h-12 hover:opacity-80 transition icon-theme"/>
         </a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener" aria-label="GitHub">
+        <a href="https://www.youtube.com/@vegecken" target="_blank" rel="noopener" aria-label="GitHub">
           <img src="@/assets/icons/youtube.svg" alt="GitHub" class="w-12 h-12 hover:opacity-80 transition icon-theme"/>
         </a>
         <a href="https://github.com/YasaitoriOvO" target="_blank" rel="noopener" aria-label="GitHub">
