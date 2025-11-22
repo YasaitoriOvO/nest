@@ -86,7 +86,7 @@ const isActive = computed(() => ({
   opacity: 1;
 }
 
-/* 可选：添加更平滑的过渡效果 */
+/* 过渡效果 */
 .underline-effect {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
