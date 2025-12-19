@@ -1,9 +1,9 @@
 <script setup lang="ts">
   const friends = [
     { name: '艾了个拉', url: 'https://aira.cafe' },
-    { name: '示例友人2', url: 'https://example.com' },
-    { name: '示例友人3', url: 'https://example.com' },
-    { name: '示例友人4', url: 'https://example.com' }
+    { name: 'hakadao', url: 'https://hakadao.cc' },
+    { name: '-', url: 'https://example.com' },
+    { name: '-', url: 'https://example.com' }
   ];
   defineEmits(['update:friends']);
   defineOptions({ name: 'FriendsPage' });
